@@ -22,6 +22,7 @@
 C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
 ```
 После создания ярлыка заходим в его свойства и в поле "Объект" добавляем в конце строки **--locale=ru**
+
 Таким образом строка в поле "Объект" будет выглядеть следующим образом:
 ```
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe" --locale=ru
